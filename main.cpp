@@ -35,5 +35,5 @@ void menu(){
 }
 
 int main(){
-    cout<<"Hola esta es una prueba de cambios de git"<<endl;
+    cout<<"Hola Bradly"<<endl;
 }
